@@ -1,0 +1,370 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.verh {
+    width: 100%;
+    height: 60px;
+    background-color:white;
+}
+.verh .tank {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 190px;
+    padding-top: 10px;
+}
+.verh .app {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 285px;
+    margin-top: -37px;
+    color: #54A3DA;
+}
+.verh .bar a {
+    padding: 25px;
+    float: right;
+    margin-right: 70px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -53px;
+    font-size: 18px;
+    color: grey;
+}
+.verh .bar a:hover {
+    color: black;
+}
+.polser {
+    background-color: #54A3DA;
+    width: 100%;
+    height: 850px;
+}
+.polser .texta {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 190px;
+    margin-top: 30px;
+    color: white;
+}
+.polser .textb {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    padding-left: 190px;
+    margin-top: 22px;
+    color: white; 
+}
+.polser .signup {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 190px;
+    margin-top: 100px;
+    color: white;
+}    
+.polser .freeimg {
+    padding-left: 275px;  
+    position: absolute;
+    margin-top: -23px;
+}
+.polser .free {
+    padding-left: 282px;
+    position: relative;
+    margin-top: -18px;
+    color: whitesmoke;
+}
+.polser .email {
+    margin-left: 190px;
+    width: 370px;
+    height: 50px;
+    margin-top: 30px;
+}
+.polser .emailsignup {
+    padding-left: 70px;
+    position: absolute;
+    margin-top: 29px;
+}
+.polser .vhod {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    padding-left: 655px;
+    margin-top: -35px;
+    position: relative;
+    color: whitesmoke;
+}
+.polser .phone {
+    margin-left: 1100px;
+    margin-top: -410px;
+}
+.seredina .company {
+    background-color: #F8F8F8;
+    width: 100%;
+    height: 160px;
+}
+.seredina .company .aa {
+    margin-top: 65px;
+    padding-left: 200px;
+    position: absolute;
+}
+.seredina .company .bb {
+    margin-top: 70px;
+    padding-left: 550px;
+    position: absolute;
+}
+.seredina .company .cc {
+    margin-top: 70px;
+    padding-left: 900px;
+    position: absolute;
+}
+.seredina .company .dd {
+    margin-top: 75px;
+    padding-left: 1250px;
+    position: absolute;
+}
+.seredina .company .ee {
+    margin-top: 65px;
+    padding-left: 1550px;
+    position: absolute;
+}
+.niz {
+    background-color: white;
+    width: 100%;
+    height: 1000px;
+}
+.niz .name {
+    font-size: 35px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+}
+.niz .icona {
+    padding-left: 190px;
+    position: absolute;
+    margin-top: 130px;
+}
+.niz .aaa {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: 130px;
+}
+.niz .pa {
+    padding-left: 200px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.niz .iconb {
+    padding-left: 170px;
+    position: absolute;
+    margin-top: 60px;
+}
+.niz .bbb {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: 75px;
+}    
+.niz .pb {
+    padding-left: 200px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.niz .iconc {
+    padding-left: 190px;
+    position: absolute;
+    margin-top: 60px;
+}
+.niz .ccc {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: 58px;
+} 
+.niz .iconcc {
+    padding-left: 175px;
+    position: absolute;
+    margin-top: 51px;
+}  
+.niz .pc {
+    padding-left: 200px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.niz .icond {
+    padding-left: 180px;
+    position: absolute;
+    margin-top: 60px;
+}
+.niz .icondd {
+    padding-left: 200px;
+    position: absolute;
+    margin-top: 65px;
+}
+.niz .ddd {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: 75px;
+} 
+.niz .pd {
+    padding-left: 200px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.niz .nout {
+    padding-left: 960px;
+    margin-top: -700px;
+}
+.niz .bodyb {
+    margin-left: 1035px;
+    margin-top: -30px;
+    position: absolute;
+}
+.nizok {
+    width: 100%;
+    height: 1050px;
+    background-color: white;
+}
+.nizok .one {
+    font-size: 25px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nizok .obj {
+    padding-left: 170px;
+    position: absolute;
+    margin-top: 150px;
+}
+.nizok .hobj {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-left: 250px;
+    margin-top: 155px;
+}
+.nizok .pobj {
+    padding-left: 200px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nizok .elips {
+    padding-left: 850px;
+    margin-top: 100px;
+}
+.nizok .eone {
+    margin-top: -28px;
+    padding-left: 857px;
+    position: absolute;
+    position: relative;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.nizok .oneone {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: grey;
+    margin-top: -22px;
+    padding-left: 900px;
+}
+.nizok .onethree {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: grey;
+    margin-top: -22px;
+    padding-left: 950px;
+}
+.nizok .onefour {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: grey;
+    margin-top: -22px;
+    padding-left: 1000px;
+}
+.nizok .parus {
+    padding-left: 1100px;
+    margin-top: -500px;
+    position: absolute;
+}
+.nizok .savetime {
+    font-size: 30px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 200px;
+}
+.nizok .texttime {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding-left: 580px;
+    margin-top: 30px;
+}
+.nizok .emailb {
+    margin-left: 550px;
+    width: 580px;
+    height: 65px;
+    margin-top: 50px;
+}
+.nizok .knopka {
+    padding-left: 30px;
+    position: absolute;
+    margin-top: 50px;
+}
+.nizok .namesign {
+    padding-left: 1210px;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    margin-top: -47px;
+    color: white;
+}
+.end {
+    width: 100%;
+    height: 150px;
+    background-color: silver;
+}
+.end .tankaapend {
+    padding-left: 130px;
+    margin-top: 60px;
+}
+.end .endstroke a {
+    font-size: 18px;
+    padding-left: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: grey;
+}
+.end .endstroke a:hover {
+    color: black;
+}
+.end .endstroke {
+    margin-left: 650px;
+    margin-top: -20px;
+}
+.end .stick {
+    font-size: 18px;
+    padding-left: 740px;
+    margin-top: -22px;
+}
+.end .soc a {
+    padding-left: 30px;
+}
+.end .soc {
+    margin-left: 1400px;
+    margin-top: -20px;
+}
+.hhh {
+    padding-top: 150px;
+}
+.polser .cloudone {
+    padding-left: 135px;
+    margin-top: -390px;
+    position: absolute;
+}
+.polser .cloudtwo {
+    padding-left: 185px;
+    margin-top: 225px;
+    position: absolute;
+}
+.polser .cloudthree {
+    padding-left: 1490px;
+    margin-top: -265px;
+    position: absolute;
+}
+.polser .cloudfour {
+    padding-left: 1610px;
+    margin-top: 195px;
+    position: absolute;
+}
